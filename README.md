@@ -171,6 +171,3 @@ Dashboard Link : https://github.com/Rinkibasumatarty/HR-Analytical-Dashboard/blo
 
 
 
-
-yzing employee attrition and workforce performance
-- Delivering business insights through interactive reporting
