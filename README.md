@@ -167,7 +167,7 @@ The dashboard helps HR teams to:
 
 
 # Dashboard Preview
-Dashboard Link : 
+Dashboard Link : https://github.com/Rinkibasumatarty/HR-Analytical-Dashboard/blob/main/Screenshot%20of%20HR%20Analytical%20Dashboard.png
 
 
 
